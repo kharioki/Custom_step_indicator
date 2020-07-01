@@ -1,0 +1,27 @@
+data = [
+    {
+        label: 'Ordered and Approved',
+        status: 'Your order has been placed',
+        dateTime: 'Sat, 3rd Nov 11:49pm'
+    },
+    {
+        label: 'Packed',
+        status: 'Your item has been parked',
+        dateTime: 'Sun, 4th Nov 12:30am'
+    },
+    {
+        label: 'Shipped',
+        status: 'Your item has been shipped',
+        dateTime: 'Sun, 3rd Nov 03:30pm'
+    },
+    {
+        label: 'Out for Delivery',
+        status: 'Your item is out for delivery',
+        dateTime: 'Sun, 4th Nov 5:30pm'
+    },
+    {
+        label: 'Delivered',
+        status: 'Your item has been delivered',
+        dateTime: 'Sun, 4th Nov 08:30pm'
+    },
+]
